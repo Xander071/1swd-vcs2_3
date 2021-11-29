@@ -7,3 +7,6 @@ water
 pindakaas
 pepernoten
 wcpapier
+brood
+kaas
+eieren
